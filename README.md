@@ -23,8 +23,8 @@ Julian Hitz
 | 3.3  |Muss                 |Funktional| Als ein User möchte ich, wenn ich die Zahl erraten habe einen Hinweis, dass ich die Zahl errraten habe, damit ich weiss, dass ich es geschaft habe. |
 | 4  |Muss               |Funktional     | Als User möchte ich, dass wann die Zahl erraten wurde, dass ausgegeben wird wie viele Versuche benötigt wurden, damit ich sehe wie viele Versuche ich gebraucht habe. |
 | 5  | Muss                |Funktional      | Als User möchte ich, dass Fehleingaben abgefangen werden, damit das spiel besser läuft  |
-| 5  | kann                |Funktional      | Als User möchte ich, dass es wenn die Zahl erraten wurde, man gefragt will ob man nochmals spielen will, damit man das Spiel nicht immer wieder neu starten muss um zu spielen|
-| 5  | kann                |Funktional      | Als User möchte ich, dass es eine Highscoreliste gibt, damit man sehen kann was der Beste Versuch war|
+| 6  | kann                |Funktional      | Als User möchte ich, dass es wenn die Zahl erraten wurde, man gefragt will ob man nochmals spielen will, damit man das Spiel nicht immer wieder neu starten muss um zu spielen|
+| 7  | kann                |Funktional      | Als User möchte ich, dass es eine Highscoreliste gibt, damit man sehen kann was der Beste Versuch war|
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.

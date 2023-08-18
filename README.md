@@ -5,12 +5,6 @@ Numberguesser
 
 Julian Hitz
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
-
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
@@ -21,8 +15,17 @@ Julian Hitz
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |Muss                 |Funktional| Als ein User möchte ich, dass der Computer eine Geheimzahl zwischen 1 und 100 speichert, damit man diese später erraten kann |
+| 2  |Muss                 |Funktional| Als ein User möchte ich, dass ich Zahlen raten kann, damit man spielen/gewinnen kann  |
+| 3  |Muss                 |Funktional| Als ein User möchte ich, dass ich einen Hinweis für die geratene Zahl erhalte, damit ich die Zahl besser eraten kann |
+| 3.1  |Muss                 |Funktional| Als ein User möchte ich, dass wenn die Geheimzahl tiefer ist als die geschätzte Zahl, einen Hinweis dass die Zahl tiefer ist als die geschätzte, damit ich für die nächste Eingabe eine bessere Chance fürs erraten habe  |
+| 3.2  |Muss                 |Funktional| Als ein User möchte ich, dass wenn die Geheimzahl höher ist als die geschätzte Zahl, einen Hinweis dass die Zahl höher ist als die geschätzte, damit ich für die nächste Eingabe eine bessere Chance fürs erraten habe.                                |
+| 3.3  |Muss                 |Funktional| Als ein User möchte ich, wenn ich die Zahl erraten habe einen Hinweis, dass ich die Zahl errraten habe, damit ich weiss, dass ich es geschaft habe. |
+| 4  |Muss               |Funktional     | Als User möchte ich, dass wann die Zahl erraten wurde, dass ausgegeben wird wie viele Versuche benötigt wurden, damit ich sehe wie viele Versuche ich gebraucht habe. |
+| 5  | Muss                |Funktional      | Als User möchte ich, dass Fehleingaben abgefangen werden, damit das spiel besser läuft  |
+| 5  | kann                |Funktional      | Als User möchte ich, dass es wenn die Zahl erraten wurde, man gefragt will ob man nochmals spielen will, damit man das Spiel nicht immer wieder neu starten muss um zu spielen|
+| 5  | kann                |Funktional      | Als User möchte ich, dass es eine Highscoreliste gibt, damit man sehen kann was der Beste Versuch war|
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 

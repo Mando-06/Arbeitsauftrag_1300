@@ -9,7 +9,7 @@ Julian Hitz
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In diesem Projekt habe ich ein NumberGuesser-Programm entwickelt.
 
 ### 1.2 User Stories
 
@@ -27,8 +27,6 @@ Julian Hitz
 | 7  | kann                |Funktional      | Als User möchte ich, dass es eine Highscoreliste gibt, damit man sehen kann was der Beste Versuch war|
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -36,7 +34,6 @@ Julian Hitz
 | 1.1  |              |         |                   |
 | ...  |              |         |                   |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -46,8 +43,13 @@ Julian Hitz
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 01.09.2023 |Julian Hitz | Geheimzehl generieren | 15'  |
+| 2.A  | 01.09.2023 |Julian Hitz | Zahlen raten | 20'           |
+| 3.A  | 01.09.2023 |Julian Hitz | Hinweis ob Zahl höher/tiefer oder eraten | 40'|
+| 4.A  | 01.09.2023 |Julian Hitz | Ausgabe Anzahl Versuche|30'  |
+| 5.A  | 01.09.2023 |Julian Hitz | Fehleingaben abfangen  |30'  |
+| 6.A  | 01.09.2023 |Julian Hitz | nochmals spielen       |15'  |
+| 7.A  | 01.09.2023 |Julian Hitz | Highscoreliste         |45'  |
 
 Total: 
 

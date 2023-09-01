@@ -51,7 +51,7 @@ In diesem Projekt habe ich ein NumberGuesser-Programm entwickelt.
 | 6.A  | 01.09.2023 |Julian Hitz | nochmals spielen       |15'  |
 | 7.A  | 01.09.2023 |Julian Hitz | Highscoreliste         |45'  |
 
-Total: 
+Total: 195' 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 

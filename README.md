@@ -45,7 +45,7 @@ In diesem Projekt habe ich ein NumberGuesser-Programm entwickelt.
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+<img width="451" alt="Numberguesser pap" src="https://github.com/Mando-06/Arbeitsauftrag_1300/assets/110893098/682bbde0-f40b-4bc9-b317-0ab1d2bfd9d6">
 
 ## 2 Planen
 

@@ -65,10 +65,14 @@ Total: 195'
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 25.08.2023       | Julian Hitz           | 15'              | 20'                  |
+| 2.A  | 25.08.2023       | Julian Hitz           | 20'              | 20'                  |
+| 3.A  | 25.08.2023       | Julian Hitz           | 40'              | 30'                  |
+| 4.A  | 25.08.2023       | Julian Hitz           | 30'              | 40'                  |
+| 5.A  | 25.08.2023       | Julian Hitz           | 30'              | 30'                  |
+| 6.A  | 01.09.2023       | Julian Hitz           | 15'              | 20'                  |
+| 7.A  | 01.09.2023       | Julian Hitz           | 45'              | 60'                  |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 

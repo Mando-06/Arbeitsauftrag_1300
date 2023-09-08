@@ -31,11 +31,12 @@ In diesem Projekt habe ich ein NumberGuesser-Programm entwickelt.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Spiel gestartet |         |                   |
-| 2.1  |              |         |                   |
-| 3.1  |              |         |                   |
-| 3.2  |              |         |                   |
-| 3.3  |              |         |                   |
+| 1.1  |  Spiel gestartet | Zahl | Feedback zur generierten Zahl |
+| 2.1  |  Spiel gestartet | Zahl | Feedback zur generierten Zahl |
+| 3.1  |  Zahl wurde generiert | -    | Info zur eingegeben Zahl      |
+| 3.2  |  Zahl wurde generiert | Zahl        |Die Geheimzahl ist kleiner als deine Eingabe |
+| 3.3  |  Zahl wurde generiert | Zahl        |Die Geheimzahl ist größer als deine Eingabe  |
+| 3.4  |  Zahl wurde generiert | Zahl        |Glückwunsch! Du hast die Geheimzahl (Zahl) in (Zahl) Versuchen erraten|
 | 4.1  |              |         |                   |
 | 5.1  |              |         |                   |
 | 6.1  |              |         |                   |

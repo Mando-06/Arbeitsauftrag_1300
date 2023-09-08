@@ -31,8 +31,15 @@ In diesem Projekt habe ich ein NumberGuesser-Programm entwickelt.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Spiel gestartet |         |                   |
+| 2.1  |              |         |                   |
+| 3.1  |              |         |                   |
+| 3.2  |              |         |                   |
+| 3.3  |              |         |                   |
+| 4.1  |              |         |                   |
+| 5.1  |              |         |                   |
+| 6.1  |              |         |                   |
+| 7.1  |              |         |                   |
 
 
 ### 1.4 Diagramme

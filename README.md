@@ -37,7 +37,7 @@ In diesem Projekt habe ich ein NumberGuesser-Programm entwickelt.
 | 3.2  |  Zahl wurde generiert | Zahl        |Die Geheimzahl ist kleiner als deine Eingabe |
 | 3.3  |  Zahl wurde generiert | Zahl        |Die Geheimzahl ist größer als deine Eingabe  |
 | 3.4  |  Zahl wurde generiert | Zahl        |Glückwunsch! Du hast die Geheimzahl (Zahl) in (Zahl) Versuchen erraten|
-| 4.1  |              |         |                   |
+| 4.1  |  Zahl erraten         |         |                   |
 | 5.1  |              |         |                   |
 | 6.1  |              |         |                   |
 | 7.1  |              |         |                   |

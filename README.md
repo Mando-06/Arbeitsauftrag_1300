@@ -88,3 +88,6 @@ Total: 195'
 | 6.1  | 01.09.2023       | Ok.          | Julian Hitz       |
 | 7.1  | 01.09.2023       | Ok.          | Julian Hitz       |
 
+Hier geht es zu meinem Portfolio: https://portfolio.bbbaden.ch/view/view.php?t=35707605b7ca8ad40849
+
+

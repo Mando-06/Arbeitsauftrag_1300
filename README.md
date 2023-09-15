@@ -37,10 +37,10 @@ In diesem Projekt habe ich ein NumberGuesser-Programm entwickelt.
 | 3.2  |  Zahl wurde generiert | Zahl        |Die Geheimzahl ist kleiner als deine Eingabe |
 | 3.3  |  Zahl wurde generiert | Zahl        |Die Geheimzahl ist größer als deine Eingabe  |
 | 3.4  |  Zahl wurde generiert | Zahl        |Glückwunsch! Du hast die Geheimzahl (Zahl) in (Zahl) Versuchen erraten|
-| 4.1  |  Zahl erraten         |         |                   |
-| 5.1  |              |         |                   |
-| 6.1  |              |         |                   |
-| 7.1  |              |         |                   |
+| 4.1  |  Zahl erraten         | richtige Zahl| Glückwunsch! Du hast die Geheimzahl (Zahl) in (Anzahl) Versuchen erraten."                  |
+| 5.1  |  Spiel gestartet      | Fehleingabe  | Ungültige Eingabe. Bitte gib eine gültige Zahl ein   |
+| 6.1  |  Spiel beendet        | -        | Möchtest du nochmal spielen? (ja/nein)|
+| 7.1  |  Mindestens ein Durchgang gespielt   | -        | Platz 1 : (Bester Versuch) ...  |
 
 
 ### 1.4 Diagramme

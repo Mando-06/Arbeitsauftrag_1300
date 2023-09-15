@@ -1,0 +1,14 @@
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\bin\Debug\net6.0\Numberguesser_ILA2_1300.exe
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\bin\Debug\net6.0\Numberguesser_ILA2_1300.deps.json
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\bin\Debug\net6.0\Numberguesser_ILA2_1300.runtimeconfig.json
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\bin\Debug\net6.0\Numberguesser_ILA2_1300.dll
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\bin\Debug\net6.0\Numberguesser_ILA2_1300.pdb
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\obj\Debug\net6.0\Numberguesser_ILA2_1300.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\obj\Debug\net6.0\Numberguesser_ILA2_1300.AssemblyInfoInputs.cache
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\obj\Debug\net6.0\Numberguesser_ILA2_1300.AssemblyInfo.cs
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\obj\Debug\net6.0\Numberguesser_ILA2_1300.csproj.CoreCompileInputs.cache
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\obj\Debug\net6.0\Numberguesser_ILA2_1300.dll
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\obj\Debug\net6.0\refint\Numberguesser_ILA2_1300.dll
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\obj\Debug\net6.0\Numberguesser_ILA2_1300.pdb
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\obj\Debug\net6.0\Numberguesser_ILA2_1300.genruntimeconfig.cache
+C:\Users\A_119884\source\repos\Numberguesser_ILA2_1300\obj\Debug\net6.0\ref\Numberguesser_ILA2_1300.dll
